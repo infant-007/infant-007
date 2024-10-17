@@ -92,5 +92,5 @@ def main():
         else:
             print("Invalid option. Please choose a valid one.")
 
-if _name_ == "_main_":
+if '_name_' == "_main_":
     main()
